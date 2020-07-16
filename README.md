@@ -1,5 +1,7 @@
 # Daily Planner
 
+https://chidinmanze.github.io/dailyplnner/
+
 The daily planner allows users to plan their work day, which will help organization and productivity. 
 
 ## Features
