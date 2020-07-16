@@ -4,8 +4,8 @@ $(document).ready(function(){
     // Set date and time info at the top of the calendar
     var now = moment();
     console.log(now.toString());
-    console.log(now.format("dddd MMMM Mo YYYY"));
-    $("#currentDay").html(now.format("dddd MMMM Mo YYYY h:m a"));
+    console.log(now.format("dddd MMMM Do YYYY"));
+    $("#currentDay").html(now.format("dddd MMMM Do YYYY h:m a"));
 
     // 
 
