@@ -12,3 +12,6 @@ The daily planner allows users to plan their work day, which will help organizat
 ## In Progress Features
 - Color coded input sections for past, current, and future times
 - Saved items reload in calendar when the page is refreshed
+
+## Screenshot
+<img src ="https://github.com/chidinmanze/dailyplnner/blob/master/assets/planner%20screenshot.JPG" alt= "Daily Planner Screenshot">
