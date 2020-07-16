@@ -14,4 +14,4 @@ The daily planner allows users to plan their work day, which will help organizat
 - Saved items reload in calendar when the page is refreshed
 
 ## Screenshot
-<img src ="./assets/planner screenshot.jpg" alt= "Daily Planner Screenshot">
+<img src ="/assets/planner screenshot.jpg" alt= "Daily Planner Screenshot">
